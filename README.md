@@ -15,6 +15,10 @@
 
 ###
 
+<h6 align="left">Connect with me via:</h6>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/sujal-bhakare/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -35,7 +39,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDkxY3d4c3BneDRoc2V1cXRmZXFyYjd3ZGV1MnZ5MzQwMmVlZDJjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTMxfXzAohYnkiTZlg/giphy.gif"  />
+<h6 align="left">Tech Stack that I have experience in:</h6>
 
 ###
 
