@@ -214,3 +214,11 @@
 <p align="left">👋 Hey, I'm Sujal Dattarao Bhakare, a Computer Science sophomore deeply passionate about engineering systems that blend software with hardware. I work across the stack—from low-level programming in C/C++, studying operating systems, to researching hardware design and embedded logic. I'm currently involved in the UB Lunabotics Moon Rover project, contributing to real-time control and system integration.<br><br>I enjoy tackling challenges in robotics, system design, and algorithmic problem-solving. My projects often span from hardware development and PCB design to intelligent software integration, but I don’t let tools define me—I let ideas lead the way. I believe learning should follow innovation: what I envision guides what I learn, and what I learn shapes what I build.<br><br>My work extends far beyond any single tech stack. I'm always exploring, experimenting, and striving to build things that make a difference. If you're driven by curiosity and creation—let’s connect! 🚀</p>
 
 ###
+
+
+###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kritarth-Dandapat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritarth-Dandapat&show_icons=true&locale=en&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kritarth-Dandapat&&theme=tokyonight)
+
+###
