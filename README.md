@@ -15,6 +15,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sujaldeshmukh1012&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujaldeshmukh1012&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura_dark&hide_border=true" height="150" alt="languages graph"  />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sujaldeshmukh1012&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 </div>
 
 ###
@@ -217,7 +218,6 @@
 
 
 ###
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sujaldeshmukh1012&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujaldeshmukh1012&show_icons=true&locale=en&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujaldeshmukh1012&&theme=tokyonight)
 
