@@ -217,8 +217,8 @@
 
 
 ###
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kritarth-Dandapat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritarth-Dandapat&show_icons=true&locale=en&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kritarth-Dandapat&&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sujaldeshmukh1012&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujaldeshmukh1012&show_icons=true&locale=en&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujaldeshmukh1012&&theme=tokyonight)
 
 ###
