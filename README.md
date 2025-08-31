@@ -6,7 +6,7 @@
 
 ###
 
-<h5>here is my <a href="https://buffalo.box.com/s/mcqig78p1pcyzfmupe4bv54dsjaxfmor" >RESUME</a> and <a href="https://sujal-bhakare.web.app/" >WEBSITE</a></h5>
+<h5>here is my <a href="https://buffalo.box.com/s/mcqig78p1pcyzfmupe4bv54dsjaxfmor" >RESUME</a> and <a href="https://sujalbhakare.com/" >WEBSITE</a></h5>
 
 ###
 
