@@ -1,96 +1,18 @@
-<h1 align="left">Sujal Dattarao Bhakare</h1>
+# 💫 About Me:
+I am a Computer Science undergraduate focused on building high-reliability, real-world systems at the intersection of software, hardware, and autonomy.<br><br>My work spans embedded systems, robotics, and full-stack engineering, with a strong bias toward systems that must perform under real constraints: power, latency, sensing noise, and failure modes.<br><br>I currently serve as a hardware and embedded systems lead on the NASA Lunabotics Moon Rover team at the University at Buffalo, where I work on autonomous navigation, sensor fusion, real-time control, and custom PCB design for competition-grade robotic platforms.<br><br>Beyond academic projects, I actively build startup-oriented hardware and AI systems, including assistive technology platforms, modular robotics controllers, and edge-AI devices. I approach engineering from first principles, selecting tools only after system requirements are clear.<br><br>My interests include robotics, embedded firmware, operating systems, edge AI, system architecture, and applied machine learning. I value rigor, clarity, and execution.
 
-<h4 align="left">
-Computer Science Undergraduate · Robotics & Embedded Systems Engineer · Builder
-</h4>
 
-<p align="left">
-University at Buffalo (SUNY) · USA<br>
-Originally from India
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujalbhakare1012) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-bhakare ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sujalbhakare101205) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujaldat@buffalo.edu) 
 
-<p align="left">
-<a href="https://buffalo.box.com/s/mcqig78p1pcyzfmupe4bv54dsjaxfmor">Resume</a> ·
-<a href="https://sujalbhakare.com/">Personal Website</a>
-</p>
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujaldeshmukh1012&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujaldeshmukh1012&layout=compact&langs_count=6&theme=aura_dark&hide_border=true" height="150"/>
-</div>
+# 💻 Tech Stack:
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sujaldeshmukh1012&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sujaldeshmukh1012&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujaldeshmukh1012&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sujaldeshmukh1012&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<h3 align="left">About</h3>
-
-<p align="left">
-I am a Computer Science undergraduate focused on building high-reliability, real-world systems at the intersection of software, hardware, and autonomy.
-</p>
-
-<p align="left">
-My work spans embedded systems, robotics, and full-stack engineering, with a strong bias toward systems that must perform under real constraints: power, latency, sensing noise, and failure modes.
-</p>
-
-<p align="left">
-I currently serve as a hardware and embedded systems lead on the NASA Lunabotics Moon Rover team at the University at Buffalo, where I work on autonomous navigation, sensor fusion, real-time control, and custom PCB design for competition-grade robotic platforms.
-</p>
-
-<p align="left">
-Beyond academic projects, I actively build startup-oriented hardware and AI systems, including assistive technology platforms, modular robotics controllers, and edge-AI devices. I approach engineering from first principles, selecting tools only after system requirements are clear.
-</p>
-
-<p align="left">
-My interests include robotics, embedded firmware, operating systems, edge AI, system architecture, and applied machine learning. I value rigor, clarity, and execution.
-</p>
-
----
-
-<h3 align="left">Connect</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sujal-bhakare/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  <a href="mailto:sujaldat@buffalo.edu">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35"/>
-  </a>
-  <a href="https://medium.com/@sujaldeshmukh1012" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35"/>
-  </a>
-  <a href="https://discord.com/users/sujalbhakare" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
-  </a>
-</div>
-
----
-
-<h3 align="left">Technical Focus</h3>
-
-<ul align="left">
-  <li>Robotics & Autonomous Systems (ROS2, sensor fusion, navigation)</li>
-  <li>Embedded Systems & Firmware (ESP32, STM32, Raspberry Pi, custom PCBs)</li>
-  <li>Low-level & Systems Programming (C, C++, Python)</li>
-  <li>Full-Stack Engineering (React, Next.js, Django, APIs, cloud)</li>
-  <li>Edge AI & Machine Learning (PyTorch, TensorFlow, TinyML)</li>
-  <li>DevOps & Infrastructure (Docker, CI/CD, Linux, cloud platforms)</li>
-</ul>
-
----
-
-<h3 align="left">Tools & Technologies</h3>
-
-<p align="left">
-(See icons below for a non-exhaustive overview of tools I have worked with across software, hardware, and infrastructure.)
-</p>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,ros,linux,git,docker,react,nextjs,nodejs,django,postgres,mysql,mongodb,aws,gcp,arduino,raspberrypi,stm32,tensorflow,pytorch,figma&perline=10" />
-</div>
-
----
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujaldeshmukh1012&theme=tokyonight"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
